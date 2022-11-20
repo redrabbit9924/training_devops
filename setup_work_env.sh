@@ -15,3 +15,7 @@ echo "Setting up projects dir"
 echo "-------------"
 
 mkdir -p ~/projects
+cd ~/projects/ 
+
+git clone https://github.com/CleanBandit5595/training_devops.git
+
