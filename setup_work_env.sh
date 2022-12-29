@@ -11,6 +11,11 @@ git config --global user.email "cleanbandit5595@gmail.com"
 git config --global user.name "cleansy bandit"
 
 echo "-------------"
+echo "Setting up git"
+echo "-------------"
+
+sudo apt install -y docker.io
+echo "-------------"
 echo "Setting up projects dir"
 echo "-------------"
 
