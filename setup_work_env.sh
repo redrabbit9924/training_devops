@@ -8,7 +8,7 @@ echo "-------------"
 echo "Setting up git"
 echo "-------------"
 git config --global user.email "redrabbit9924@gmail.com"
-git config --global user.name "Red Rabbit"
+git config --global user.name "RedRabbit9924"
 
 echo "-------------"
 echo "installing developer pacakges"
