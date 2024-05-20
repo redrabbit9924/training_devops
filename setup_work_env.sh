@@ -7,8 +7,8 @@ echo "-----------------------"
 echo "-------------"
 echo "Setting up git"
 echo "-------------"
-git config --global user.email "cleanbandit5595@gmail.com"
-git config --global user.name "cleansy bandit"
+git config --global user.email "redrabbit9924@gmail.com"
+git config --global user.name "Red Rabbit"
 
 echo "-------------"
 echo "installing developer pacakges"
@@ -22,5 +22,5 @@ echo "-------------"
 mkdir -p ~/projects
 cd ~/projects/ 
 
-git clone https://github.com/CleanBandit5595/training_devops.git
+git clone https://github.com/redrabbit9924/training_devops.git
 
