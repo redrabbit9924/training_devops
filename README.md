@@ -3,7 +3,7 @@ training devops package, with scripts to help training go smoothly
 
 ## starting to work 
 ```
-wget -O -  https://raw.githubusercontent.com/CleanBandit5595/training_devops/main/setup_work_env.sh | bash
+wget -O -  https://raw.githubusercontent.com/redrabbit9924/training_devops/main/setup_work_env.sh | bash
 ```
 
 # TODO: 
